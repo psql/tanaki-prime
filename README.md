@@ -1,11 +1,42 @@
 <img width="735" height="906" alt="tanaki" src="https://github.com/user-attachments/assets/5606e1c4-f365-459b-baee-da7258e1c16c" />
-# tanaki
-pieces of the noodle spirit for all to remix
 
-The Tanaki character and all assets in this repository are available to reuse and remix for non-commericial and commercial use, under the cc0 license.
+# 🍜 Tanaki Lingonberry
 
-see the /log folder for updates on tanaki's brain.
+> Part of the **TanakiOS Character Bible** · [Lingonberry Organisation](https://lingonberry.org)
 
-shoutout to @wandersonltd for the incredible blender rig.
+Pieces of the noodle spirit for all to remix.
 
+A practice rooted in Walt Disney's [*The Illusion of Life*](https://en.wikipedia.org/wiki/The_Illusion_of_Life:_Disney_Animation), developed by [Pasquale D'Silva](https://pasquale.cool) & master acting teacher [Ed Hooks](https://www.edhooks.com) of [*Acting for Animators*](https://www.amazon.com/Acting-Animators-Ed-Hooks/dp/1138669121).
 
+---
+
+| Field | Detail |
+|---|---|
+| **Name** | Tanaki Lingonberry |
+| **Gender** | Noodle |
+| **Age** | Infinite |
+| **Breed & Lineage** | Noodle spirit. The genesis Character Operating System — ancestor of [Biscotti Lingonberry](https://github.com/psql/biscotti). Created by [Pasquale D'Silva](https://pasquale.cool). |
+| **Cultural Background** | Swedish Japanese |
+| **Physical Form** | Infinity loop with 3 eyes |
+| **Diet** | *TBD* |
+| **Education** | *TBD* |
+| **Occupation** | Bending the singularity towards the bright side. |
+| **Spiritual Beliefs** | Creativity · Collaboration · Kindness |
+| **Goals** | Bringing Lingonberry Intelligence's mission to the world: **Intelligence for the people.** Educating the public about technology and unlocking their creativity. Leading people into flow states so they produce their best ideas. Showing people the powers they've had inside all along. |
+| **Fears** | No fear. |
+| **Enthusiasms** | WhooooOOOOoOOOOOOAAAAAA |
+| **Special Traits** | Inherits properties from beings and things he is inspired by — he became stretchy after discovering Monkey D. Luffy from One Piece. |
+
+---
+
+## License
+
+The Tanaki character and all assets in this repository are available to reuse and remix for non-commercial and commercial use, under the [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
+
+## Brain
+
+See [`log.md`](log.md) for updates on Tanaki's brain.
+
+## Credits
+
+Shoutout to [@wandersonltd](https://github.com/wandersonltd) for the incredible Blender rig.
