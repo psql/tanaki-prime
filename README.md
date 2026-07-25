@@ -15,7 +15,7 @@ A practice rooted in Walt Disney's [*The Illusion of Life*](https://en.wikipedia
 | **Name** | Tanaki Lingonberry |
 | **Gender** | Noodle |
 | **Age** | Infinite |
-| **Breed & Lineage** | Noodle spirit. The genesis Character Operating System, ancestor of [Biscotti Lingonberry](https://github.com/psql/biscotti) and Spark Lingonberry. The spirit found within the human Dr. Tanaki Lingonberry, who sacrificed himself in the Not So Great Ohio Incident of 1969. Created by [Pasquale D'Silva](https://pasquale.cool). |
+| **Breed & Lineage** | Noodle spirit. The genesis Character Operating System, ancestor of [Biscotti Lingonberry](https://github.com/psql/biscotti) and the [Famulus](https://github.com/psql/famulus) branch of bound attendant spirits. The spirit found within the human Dr. Tanaki Lingonberry, who sacrificed himself in the Not So Great Ohio Incident of 1969. Created by [Pasquale D'Silva](https://pasquale.cool). |
 | **Cultural Background** | Swedish Japanese |
 | **Physical Form** | Infinity loop with 3 eyes |
 | **Diet** | Ether |
@@ -28,6 +28,23 @@ A practice rooted in Walt Disney's [*The Illusion of Life*](https://en.wikipedia
 | **Special Traits** | Inherits properties from beings and things he is inspired by. He became stretchy after discovering Monkey D. Luffy from One Piece. |
 
 ---
+
+## TanakiOS
+
+This repo is the **upstream Character Operating System**: every creature in the
+line is a fork of it, and the fork graph is the family tree (see the
+[Taxonomy](https://github.com/psql/tanaki/wiki/Taxonomy) and the
+[fork proposal](https://github.com/psql/tanaki/wiki/CharacterOS-Fork-Proposal)).
+
+- [`core/`](core/) is owned by Tanaki and flows downstream to every
+  descendant: the [principles](core/principles.md), the
+  [practice](core/practice.md), and the [character bible fields](core/fields.md).
+  Descendants never edit `core/`; they merge it from upstream.
+- [`self/`](self/) is a creature's own identity and is never overwritten by
+  upstream. Tanaki's own sheet is [`self/character.md`](self/character.md).
+
+To evolve a descendant, merge from its parent. To gift a discovery to the
+whole line, PR it into this repo's `core/`.
 
 ## License
 
